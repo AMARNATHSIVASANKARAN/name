@@ -12,4 +12,5 @@ public class Swap{
         num2 = temp;
 
         System.out.println("After swapping: num1 = " + num1 + ", num2 = " + num2);
+	}
 }
